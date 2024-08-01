@@ -92,6 +92,7 @@ I am a passionate data scientist and AI enthusiast dedicated to solving complex 
 </div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saravana-kr22&show_icons=true&locale=en&layout=pie&theme=tokyonight" alt="saravana-kr22"" /></p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Saravana-kr22&theme=ads-juicy-fresh&card_width=600&card_height=200" alt="saravana-kr22" /></p>
+![GitHub Snake](dist/github-contribution-snake.svg)
 
 ## 🤝 Connect with me 
 
