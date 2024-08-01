@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="120">
+        <foreignObject width="100%" height="100%">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <style>
+                    .container {
+                        font-family: 'Verdana';
+                        container-type: inline-size;
+                        width: 100%;
+                        background-color: #0d1117;
+                        height: 120px;
+                        box-sizing: border-box;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        opacity: 0;
+                        animation: fadeIn 1.2s linear 1.6s forwards;
+                    }
+                    @keyframes fadeIn {
+                        0% {
+                            opacity: 0;
+                        }
+                        100% {
+                            opacity: 1;
+                        }
+                    }
+                    .box {
+                        box-sizing: border-box;
+                        background-color: #831bac;
+                        border-radius: 15px;
+                        box-shadow: 0px 0px 6px 3px rgba(192, 12, 123, 1);
+                        border: 1px solid #ea69b0;
+                        height: 65px;
+                        width: calc(90%);
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                    #svg {
+                        width: 100%;
+                        max-width: 65px;
+                        margin: 0px display: block;
+                    }
+
+                    .st0 {
+                        fill: #5a80f2;
+                    }
+                    .hide{ 
+                        visibility:hidden;
+                    }
+                    .text {
+                        margin: 0 10% 0 0;
+                        padding: 0;
+                        display: none;
+                        color: #5a80f2;
+                        line-height: 65px;
+                        font-size: 2em;
+                        flex-grow: 1;
+                        text-align: center;
+                    }
+
+                    @container (width > 150px) {
+                        .text {
+                            display: block;
+			    min-width: 90px;
+                        }
+                    }
+
+                    @media (prefers-color-scheme: dark) {
+                        .container {
+                            background-color: #fff;
+                        }
+
+                        .box {
+                            background-color: #eee;
+                        }
+
+                        .text {
+                            color: #333;
+                        }
+
+                        .st0 {
+                            fill: #333;
+                        }
+                    }
+
+                    @media (prefers-reduced-motion: reduce) {
+                        .container {
+                            animation: none !important;
+                            opacity: 1;
+                        }
+                    }
+                </style>
+            <div class="container">
+                <div class="box">
+                <p class= "hide"> 123  </p>
+		    	<svg xmlns="http://www.w3.org/2000/svg" width="2em" height="2em" viewBox="0 0 256 256"><g fill="none"><rect width="256" height="256" fill="#fff" rx="60"/><rect width="256" height="256" fill="#0a66c2" rx="60"/><path fill="#fff" d="M184.715 217.685h29.27a4 4 0 0 0 4-3.999l.015-61.842c0-32.323-6.965-57.168-44.738-57.168c-14.359-.534-27.9 6.868-35.207 19.228a.32.32 0 0 1-.595-.161V101.66a4 4 0 0 0-4-4h-27.777a4 4 0 0 0-4 4v112.02a4 4 0 0 0 4 4h29.268a4 4 0 0 0 4-4v-55.373c0-15.657 2.97-30.82 22.381-30.82c19.135 0 19.383 17.916 19.383 31.834v54.364a4 4 0 0 0 4 4M38 59.628c0 11.864 9.767 21.626 21.632 21.626c11.862-.001 21.623-9.769 21.623-21.631C81.253 47.761 71.491 38 59.628 38C47.762 38 38 47.763 38 59.627m6.959 158.058h29.307a4 4 0 0 0 4-4V101.66a4 4 0 0 0-4-4H44.959a4 4 0 0 0-4 4v112.025a4 4 0 0 0 4 4"/></g></svg>
+                <p class="text">LinkedIn</p>
+                </div>    
+            </div>
+        </div>
+    </foreignObject>
+</svg>

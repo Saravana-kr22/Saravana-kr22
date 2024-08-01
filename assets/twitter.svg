@@ -1,0 +1,96 @@
+ <svg xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="120">
+        <foreignObject width="100%" height="100%">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <style>
+                    .container {
+                        font-family: 'Verdana';
+                        container-type: inline-size;
+                        width: 100%;
+                        background-color: #0d1117;
+                        height: 120px;
+                        box-sizing: border-box;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        opacity: 0;
+                        animation: fadeIn 1.2s linear 1.6s forwards;
+                    }
+                    @keyframes fadeIn {
+                        0% {
+                            opacity: 0;
+                        }
+                        100% {
+                            opacity: 1;
+                        }
+                    }
+                    .box {
+                        box-sizing: border-box;
+                        background-color: #831bac;
+                        border-radius: 15px;
+                        box-shadow: 0px 0px 6px 3px rgba(192, 12, 123, 1);
+                        border: 1px solid #ea69b0;
+                        height: 65px;
+                        width: calc(90%);
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                    #svg {
+                        width: 100%;
+                        max-width: 65px;
+                        margin: 0px display: block;
+                    }
+                    #svg path {
+                        fill: #5a80f2;
+                    }
+                    .hide{ 
+                        visibility:hidden;
+                    }
+                    .text {
+                        margin: 0 10% 0 0;
+                        padding: 0;
+                        display: none;
+                        color: #5a80f2;
+                        line-height: 65px;
+                        font-size: 2em;
+                        flex-grow: 1;
+                        text-align: center;
+                    }
+                    @container (width > 150px) {
+                        .text {
+                            display: block;
+                            min-width: 90px;
+                        }
+                    }
+                    
+                    @media (prefers-color-scheme: dark) {
+                        .container {
+                            background-color: #fff;
+                        }
+                        .box {
+                            background-color: #eee;
+                        }
+                        .text {
+                            color: #333;
+                        }
+                        #svg path {
+                            fill: #333;
+                        }
+                    }
+                    @media (prefers-reduced-motion: reduce) {
+                        .container {
+                            animation: none !important;
+                            opacity: 1;
+                        }
+                    }
+                </style>
+            <div class="container">
+                <div class="box">
+                    <p class= "hide"> 123  </p>
+                	<svg xmlns="http://www.w3.org/2000/svg" width="2em" height="2em" viewBox="0 0 48 48"><path fill="#2f88ff" stroke="#000" stroke-linejoin="round" stroke-width="4" d="M5 35.7622C6.92886 36.8286 20.8914 44.8773 30.8199 38.674C40.7483 32.4707 40.2006 21.7833 40.2006 16.886C41.1 15.0018 43 14.0439 43 8.9438C41.1337 10.6678 39.2787 11.2544 37.435 10.7036C35.6287 7.94957 33.1435 6.73147 29.9794 7.04934C25.2333 7.52614 23.4969 12.1825 24.0079 18.2067C16.6899 21.9074 10.9515 15.524 7.99418 10.7036C7.00607 14.4999 6.0533 19.0576 7.99418 24.0995C9.2881 27.4607 12.3985 30.3024 17.3254 32.6246C12.3323 35.3308 8.22382 36.3766 5 35.7622Z"/></svg>
+			        <p class="text">X / Twitter</p>
+                </div>    
+            </div>
+        </div>
+    </foreignObject>
+</svg>
