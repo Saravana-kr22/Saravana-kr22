@@ -65,7 +65,7 @@
                         }
                     }
                     
-                    @media (prefers-color-scheme: dark) {
+                    @media (prefers-color-scheme: light) {
                         .container {
                             background-color: #fff;
                         }
