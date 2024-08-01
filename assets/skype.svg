@@ -52,7 +52,7 @@
                         display: none;
                         color: #5a80f2;
                         line-height: 65px;
-                        font-size: 2em;
+                        font-size: 1em;
                         flex-grow: 1;
                         text-align: center;
                     }

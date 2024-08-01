@@ -95,5 +95,5 @@ I am a passionate data scientist and AI enthusiast dedicated to solving complex 
 
 ## 🤝 Connect with me 
 
-<div ><a href="https://www.linkedin.com/in/saravana-perumal-k-07233b1b4/"><img src="assets/linkedin.svg" width="19.5%" height=120 alt="linkedIn"></a><a href="mailto:smartsaravana002@gmail.com"><img src="assets/gmail.svg" width="19.5%" height=120 alt="gmail"></a><a href="mailto:smartsaravana002@gmail.com"><img src="assets/skype.svg" width="19.5%" height=120 alt="skype"></a></div>
-<div ><a href="https://x.com/Saravana_kr22"><img src="assets/insta.svg" width="19.5%" height=120 alt="insta "></a><a href="https://x.com/Saravana_kr22"><img src="assets/twitter.svg" width="19.5%" height=120 alt="Twitter "></a></div>
+<div align = "center"><a href="https://www.linkedin.com/in/saravana-perumal-k-07233b1b4/"><img src="assets/linkedin.svg" width="19.5%" height=120 alt="linkedIn"></a><a href="mailto:smartsaravana002@gmail.com"><img src="assets/gmail.svg" width="19.5%" height=120 alt="gmail"></a><a href="mailto:smartsaravana002@gmail.com"><img src="assets/skype.svg" width="19.5%" height=120 alt="skype"></a></div>
+<div align = "center"><a href="https://x.com/Saravana_kr22"><img src="assets/insta.svg" width="19.5%" height=120 alt="insta "></a><a href="https://x.com/Saravana_kr22"><img src="assets/twitter.svg" width="19.5%" height=120 alt="Twitter "></a></div>
