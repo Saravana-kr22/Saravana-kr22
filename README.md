@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Saravana Perumal K</h1>
 <h3 align="center">A Passionate <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;A.I+Enthusiast;Data+Scientist&center=true&width=225&height=30" > from India</h3>
 <br>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=saravana-kr22&theme=dracula&no-frame=true&no-bg=true&margin-w=15&title=-Reviews,-Followers" alt="saravana-kr22" /></a> </p>
+<div align ="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=saravana-kr22&theme=dracula&no-frame=true&no-bg=true&margin-w=15&title=-Reviews,-Followers&column=7" alt="saravana-kr22" >
+</div>
 
 ## 📝 About me:
 
